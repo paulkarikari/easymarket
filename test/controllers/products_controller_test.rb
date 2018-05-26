@@ -4,7 +4,7 @@ class ProductsControllerTest < ActionDispatch::IntegrationTest
   setup do
     @product = products(:one)
     @update = {
-      title: "Lorem Ipsum",
+      title: "LoremIpsum",
       description: "Wibbles are fun",
       image_url: "https://uploads.toptal.io/blog/image/404/toptal-blog-image-1401804250501.png",
       price: 19.95,

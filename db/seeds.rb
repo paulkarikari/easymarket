@@ -8,7 +8,7 @@
 
 Product.delete_all
 
-Product.create(title: 'Seven Mobile Apps in Seven Weeks',
+Product.create(title: 'SevenMobe',
     description: %{<p>
     <em>Native Apps, Multiple Platforms</em>
     Answer the question “Can we build this for ALL the devices?” with a
