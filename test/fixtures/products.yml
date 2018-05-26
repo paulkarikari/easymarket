@@ -3,11 +3,11 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: https://uploads.toptal.io/blog/image/404/toptal-blog-image-1401804250501.png
   price: 9.99
 
 two:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: https://uploads.toptal.io/blog/image/404/toptal-blog-image-1401804250501.png
   price: 9.99
