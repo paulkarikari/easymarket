@@ -9,5 +9,11 @@ one:
 two:
   title: MyString
   description: MyText
-  image_url: https://uploads.toptal.io/blog/image/404/toptal-blog-image-1401804250501.png
+  image_url: https://uploads.toptal.io/blog/image/404/toptal-blog-image-1401804250501.xyz.png
+  price: 9.99
+
+ruby:
+  title: MyString
+  description: MyText
+  image_url: https://uploads.toptal.io/blog/image/404/toptal-blog-image-1401804250501.xyz.png
   price: 9.99
